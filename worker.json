@@ -1,0 +1,122 @@
+[
+    {
+      "id": "000000001",
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "salary": 80000
+    },
+    {
+      "id": "000000002",
+      "name": "Alice Smith",
+      "position": "Data Analyst",
+      "salary": 75000
+    },
+    {
+      "id": "000000003",
+      "name": "Bob Johnson",
+      "position": "Project Manager",
+      "salary": 90000
+    },
+    {
+      "id": "000000004",
+      "name": "Emily Brown",
+      "position": "UI/UX Designer",
+      "salary": 70000
+    },
+    {
+      "id": "000000005",
+      "name": "Michael Wilson",
+      "position": "Systems Administrator",
+      "salary": 85000
+    },
+    {
+      "id": "000000006",
+      "name": "Emma Taylor",
+      "position": "Marketing Specialist",
+      "salary": 65000
+    },
+    {
+      "id": "000000007",
+      "name": "David Mart000000inez",
+      "position": "Business Analyst",
+      "salary": 78000
+    },
+    {
+      "id": "000000008",
+      "name": "Sophia Anderson",
+      "position": "HR Manager",
+      "salary": 82000
+    },
+    {
+      "id": "000000009",
+      "name": "Daniel Thomas",
+      "position": "Quality Assurance Engineer",
+      "salary": 73000
+    },
+    {
+      "id": "000000010",
+      "name": "Olivia Garcia",
+      "position": "Product Manager",
+      "salary": 95000
+    },
+    {
+      "id": "000000011",
+      "name": "James Lee",
+      "position": "Technical Writer",
+      "salary": 68000
+    },
+    {
+      "id": "000000012",
+      "name": "Isabella Hernandez",
+      "position": "Sales Representative",
+      "salary": 72000
+    },
+    {
+      "id": "000000013",
+      "name": "William Clark",
+      "position": "Network Engineer",
+      "salary": 88000
+    },
+    {
+      "id": "000000014",
+      "name": "Ava Walker",
+      "position": "Customer Support Specialist",
+      "salary": 67000
+    },
+    {
+      "id": "000000015",
+      "name": "Alexander Green",
+      "position": "Financial Analyst",
+      "salary": 89000
+    },
+    {
+      "id": "000000016",
+      "name": "Mia King",
+      "position": "Product Designer",
+      "salary": 76000
+    },
+    {
+      "id": "000000017",
+      "name": "Ethan Baker",
+      "position": "Operations Manager",
+      "salary": 91000
+    },
+    {
+      "id": "000000018",
+      "name": "Charlotte Hill",
+      "position": "Content Writer",
+      "salary": 69000
+    },
+    {
+      "id": "000000019",
+      "name": "Benjamin Evans",
+      "position": "DevOps Engineer",
+      "salary": 84000
+    },
+    {
+      "id": "000000020",
+      "name": "Amelia Brooks",
+      "position": "Legal Counsel",
+      "salary": 93000
+    }
+  ]
